@@ -54,19 +54,18 @@
 
 <span>
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EngageRing&show_icons=true&count_private=true&count_private=true" style="height: 195px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EngageRing&show_icons=true&count_private=true&count_private=true" style="height: 165px;"/>
   </a>
 </span>
 <span>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngageRing&show_icons=true&langs_count=15&layout=compact" style="height: 195px;" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngageRing&show_icons=true&langs_count=15" style="height: 165px;" />
   </a>
 </span>
 <br />
 
 
 
----
 
 <details>
   <summary>
@@ -75,7 +74,6 @@
 <pre>
 
 ![hello-image](.//hello_world.jfif)
-
 
 </pre>
 </details>
