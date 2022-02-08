@@ -2,10 +2,11 @@
 <br/>
 
 
-<h1 align="center">Hi <img src="https://github.com/EngageRing/EngageRing/blob/main/头像.jpg" alt="image-20220102113009363" width="30" />, I'm EngageRing</h1>
+<h1 align="center" style="color:#9554F8;"><font color="#9554F8" >Hi <img src="https://github.com/EngageRing/EngageRing/blob/main/头像.jpg" alt="image-20220102113009363" width="30" />, I'm EngageRing</font>
+</h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23F75C7E&size=22&center=true&vCenter=true&width=650&height=45&lines=I'm+a+passionate+Full+Stack+Developer+from+china;4%2B+years+of+coding+experience;Always+love+programming+and+new+things;Currently+a+student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%239554F8&size=22&center=true&vCenter=true&width=650&height=45&lines=I'm+a+java+backend+programmer+from+china;Currently+a+third-year+undergraduate+student;Thank+you+for+reading"></a>
 </p>
 
 <div align="center">
